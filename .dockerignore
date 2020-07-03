@@ -1,0 +1,5 @@
+*
+!src/main/resources/camel/routes.xml
+!target/*-runner
+!target/*-runner.jar
+!target/lib/*
